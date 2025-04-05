@@ -98,3 +98,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [NodeMCU](https://www.nodemcu.com/) and [Arduino IDE](https://www.arduino.cc/en/software) for IoT integration.
 - [TensorFlow](https://www.tensorflow.org/) for machine learning models.
 - [React Native](https://reactnative.dev/) and [Expo](https://expo.dev/) for mobile app development.
+
+## System Diagram
+
+![System Diagram](images/system_diagram.png)
+
+## App Screenshots
+
+![Sign Up Page](images/app_ss1.png)
+![Login Page](images/app_ss2.png)
+![Home Page](images/app_ss3.png)
+![Help Page](images/app_ss4.png)
+![Help Page](images/app_ss5.png)
+![Data Entry Page](images/app_ss6.png)
+![Data Entry Page](images/app_ss7.png)
+![Data Imported](images/app_ss8.png)
+![Data Entry Page after importing the data from database](images/app_ss9.png)
+![Data Entry Page after importing the data from database](images/app_ss10.png)
+![Crop Recommendation Page](images/app_ss11.png)
